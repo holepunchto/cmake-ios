@@ -1,6 +1,6 @@
 include_guard(GLOBAL)
 
-set(ios_module_dir ${CMAKE_CURRENT_LIST_DIR})
+set(ios_module_dir "${CMAKE_CURRENT_LIST_DIR}")
 
 function(find_codesign result)
   find_program(
