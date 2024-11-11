@@ -1,0 +1,20 @@
+{
+  "name": "cmake-ios",
+  "version": "1.0.0",
+  "description": "iOS utilities for CMake",
+  "files": [
+    "*.cmake",
+    "*.plist",
+    "PkgInfo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holepunchto/cmake-ios.git"
+  },
+  "author": "Holepunch",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holepunchto/cmake-ios/issues"
+  },
+  "homepage": "https://github.com/holepunchto/cmake-ios#readme"
+}

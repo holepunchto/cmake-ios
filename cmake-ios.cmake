@@ -1,4 +1,4 @@
-include_guard(GLOBAL)
+include_guard()
 
 set(ios_module_dir "${CMAKE_CURRENT_LIST_DIR}")
 
